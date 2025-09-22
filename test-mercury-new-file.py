@@ -1,4 +1,4 @@
-# This is a new file created by Mercury action
-print("Hello from a new file!")
-print("No SHA needed for new files")
-print("The action handles both create and update cases automatically")
+# This file has been updated!
+print("Hello from the updated file!")
+print("The SHA was automatically fetched for this update")
+print("No need to manually provide SHA!")
