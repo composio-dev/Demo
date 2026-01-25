@@ -1,0 +1,2 @@
+This is a test file for testing draft pull request functionality.
+This PR will be created as a draft to test the 405 error when trying to merge it.
