@@ -1,3 +1,0 @@
-This is a test file created via the GITHUB_COMMIT_MULTIPLE_FILES action.
-
-Timestamp: 2026-01-25T08:56:00Z
