@@ -1,1 +1,0 @@
-This file will be deleted to test the delete functionality.
