@@ -1,3 +1,5 @@
-This is a test file created for demonstrating the pull request functionality.
+This is a test file created to establish a commit difference between test-gravatar-fix-branch and master.
 
-This file contains some sample content to show how pull requests work.
+This file enables creating a pull request to test the optional gravatar_id field fix.
+
+Created: 2026-02-23
