@@ -1,0 +1,1 @@
+This tests that the namespace conflict detection fix doesn't break basic commits
